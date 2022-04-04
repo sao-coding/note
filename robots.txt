@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /about/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Disallow: /js/
+Disallow: /css/
+Sitemap: https://sao.dsmynas.com/sitemap.xml
